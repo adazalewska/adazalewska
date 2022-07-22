@@ -2,8 +2,6 @@
 #### I am an aspiring Frontend Developer
 I've been learning the world of frontend for a few months now under the guidance of my Mentor (https://github.com/devmentor-pl) and I'm always ready for new challenges.
 
-Skills: JS / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JS / HTML / CSS / REACT (soon) 
 - 📫 How to reach me: ada.zalewska@protonmail.com 
