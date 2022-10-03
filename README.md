@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ada
-#### I am an entry-level Front-end web developer
+#### I am an entry-level Frontend developer
 I've been learning the world of frontend for a few months now under the guidance of my Mentor (https://github.com/devmentor-pl) and I'm always ready for new challenges.
 
 - 🔭 I’m currently working on this page. 
