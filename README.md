@@ -6,7 +6,7 @@ I've been learning the world of frontend for a few months now under the guidance
 - 🌱 I’m currently learning:
   - HTML / CSS 
   - JavaScript (inter alia DOM, events, forms, ES6, fetch API, testing etc.)
-  - REACT (soon) 
+  - REACT
 - 📫 How to reach me: ada.zalewska@protonmail.com 
 - ⚡ Fun fact: I have worked in marketing as a PR Account Executive in the technology industry with clients such as Logitech, Sharp, HP - I know what it means to work with clients and know how to meet their expectations. 
 
